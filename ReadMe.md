@@ -1,4 +1,4 @@
-[![@z3ro_o's Holopin board](https://holopin.me/z3ro_o)](https://holopin.io/@z3ro_o)
+![LinkedIn Banner Vaibhav](https://user-images.githubusercontent.com/105493363/195394226-a0e32016-2a6b-464c-8f55-09baafb1b077.jpg)
 # 💫 About Me:
 🔭 I’m currently working on my web development skills<br>👯 I’m looking to collaborate on projects where I can contribute.<br>🌱 I’m currently learning Data Structures in C++.
 
@@ -12,7 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Z3RO-O&theme=darcula&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Z3RO-O&theme=darcula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Z3RO-O&theme=darcula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+[![@z3ro_o's Holopin board](https://holopin.me/z3ro_o)](https://holopin.io/@z3ro_o)
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
