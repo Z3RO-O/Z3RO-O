@@ -2,8 +2,6 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/105493363/195400527-d3891775-d3d1-4029-8014-1a12e5a853e7.jpg" alt="header"></p>
   <h1 align="center"><p><img src="https://camo.githubusercontent.com/5bbf8ca61ef5f92684489ace45ad6f45984fff87a621040c62b1fe31e3005ff9/687474703a2f2f692e696d6775722e636f6d2f436a34724d72532e676966" width="30">Welcome to Z3RO_O's profile!</p></h1>
 <br>
-# 💫 About Me:
-<hr>
 🔭 I’m currently working on my web development skills<br>👯 I’m looking to collaborate on projects where I can contribute.<br>🌱 I’m currently learning Data Structures in C++.
 
 
