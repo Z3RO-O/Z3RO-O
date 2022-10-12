@@ -1,3 +1,4 @@
+[![@z3ro_o's Holopin board](https://holopin.me/z3ro_o)](https://holopin.io/@z3ro_o)
 # 💫 About Me:
 🔭 I’m currently working on my web development skills<br>👯 I’m looking to collaborate on projects where I can contribute.<br>🌱 I’m currently learning Data Structures in C++.
 
