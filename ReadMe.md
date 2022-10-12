@@ -1,8 +1,8 @@
-![Gradient](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" alt="header" style="background-size: cover;">
 ![Banner Vaibhav](https://user-images.githubusercontent.com/105493363/195394226-a0e32016-2a6b-464c-8f55-09baafb1b077.jpg)
   <h1 align="center"><p><img src="https://camo.githubusercontent.com/5bbf8ca61ef5f92684489ace45ad6f45984fff87a621040c62b1fe31e3005ff9/687474703a2f2f692e696d6775722e636f6d2f436a34724d72532e676966" width="30">Welcome to Z3RO_O's profile!</p></h1>
 <br>
-#💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on my web development skills<br>👯 I’m looking to collaborate on projects where I can contribute.<br>🌱 I’m currently learning Data Structures in C++.
 
 
