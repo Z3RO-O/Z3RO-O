@@ -4,8 +4,6 @@
 <br>
 <h3 align="center">A passionate individual about Competitive Programming, Web Development and Cyber Security</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z3ro-o" alt="z3ro-o" /></a> </p>
-
 - 🌱 I’m currently learning **DSA in C++ & Web Dev.**
 
 - 💬 Ask me about **Python , Java and C++**
@@ -39,6 +37,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=z3ro-o&" alt="z3ro-o" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z3ro-o" alt="z3ro-o" /></a> </p>
 
 [![@z3ro_o's Holopin board](https://holopin.me/z3ro_o)](https://holopin.io/@z3ro_o)
 
