@@ -2,16 +2,17 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/105493363/195400527-d3891775-d3d1-4029-8014-1a12e5a853e7.jpg" alt="header"></p>
   <h1 align="center"><p><img src="https://camo.githubusercontent.com/5bbf8ca61ef5f92684489ace45ad6f45984fff87a621040c62b1fe31e3005ff9/687474703a2f2f692e696d6775722e636f6d2f436a34724d72532e676966" width="30">Welcome to Z3RO_O's profile!</p></h1>
 <br>
-<h1 align="center">Hi 👋, I'm Z3RO-O</h1>
-<h3 align="center">A passionate individual about Competitive Coding from India</h3>
+<h3 align="center">A passionate individual about Competitive Programming, Web Development and Cyber Security</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z3ro-o" alt="z3ro-o" /></a> </p>
 
-- 🌱 I’m currently learning **DSA in C++**
+- 🌱 I’m currently learning **DSA in C++ & Web Dev.**
 
 - 💬 Ask me about **Python , Java and C++**
 
 - 📫 How to reach me **vaibhavsingh7839271574@gmail.com**
+
+- 👯 I’m looking to collaborate on projects related to **Web Dev**.
 
 - ⚡ Fun fact **Insomnia sharpens your math skills because you spend all night calculating how much sleep you’ll get if you’re able to ‘fall asleep right now.’**
 
@@ -38,12 +39,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=z3ro-o&" alt="z3ro-o" /></p>
 
-🔭 I’m currently working on my web development skills<br>👯 I’m looking to collaborate on projects where I can contribute.<br>🌱 I’m currently learning Data Structures in C++.
-
 
 [![@z3ro_o's Holopin board](https://holopin.me/z3ro_o)](https://holopin.io/@z3ro_o)
-## <p align="center">✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)</p>
 
 ## <p align="center">😂 Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/></p>
