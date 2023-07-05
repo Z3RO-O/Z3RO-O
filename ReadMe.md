@@ -1,6 +1,5 @@
 <p align="center" background="cover"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" alt="gradient"></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/105493363/195400527-d3891775-d3d1-4029-8014-1a12e5a853e7.jpg" alt="header"></p>
-  <h1 align="center"><p>Welcome to Z3RO_O's profile!</p></h1>
+<p align="center"><p>Welcome to Z3RO_O's profile!</p></h1>
 <br>
 <h3 align="center">A passionate individual about Competitive Programming, Web Development and Cybersecurity</h3>
 
