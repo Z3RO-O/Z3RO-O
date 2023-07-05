@@ -73,9 +73,9 @@
 
 # <p align="center">📊 GitHub Stats</p>
 
-<p><img align="left" height="187" src="https://github-readme-stats.vercel.app/api/top-langs?username=z3ro-o&show_icons=true&locale=en&layout=compact" alt="z3ro-o" /></p>
+<p><img align="left" height="188" src="https://github-readme-stats.vercel.app/api/top-langs?username=z3ro-o&show_icons=true&locale=en&layout=compact" alt="z3ro-o" /></p>
 
-<p><img height="187" src="https://github-readme-stats.vercel.app/api?username=z3ro-o&show_icons=true&locale=en" alt="z3ro-o" /></p>
+<p><img height="188" src="https://github-readme-stats.vercel.app/api?username=z3ro-o&show_icons=true&locale=en" alt="z3ro-o" /></p>
 
 <p><img align="center" height="195" width="1000" src="https://github-readme-streak-stats.herokuapp.com/?user=z3ro-o&" alt="z3ro-o" /></p>
 
