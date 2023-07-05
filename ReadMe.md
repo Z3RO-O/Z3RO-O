@@ -73,19 +73,14 @@
 
 # <p align="center">📊 GitHub Stats</p>
 
-<p><img align="left" height="189" src="https://github-readme-stats.vercel.app/api/top-langs?username=z3ro-o&show_icons=true&locale=en&layout=compact" alt="z3ro-o" /></p>
+![](https://github-readme-stats.vercel.app/api?username=Z3RO-O&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Z3RO-O&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Z3RO-O&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img height="189" src="https://github-readme-stats.vercel.app/api?username=z3ro-o&show_icons=true&locale=en" alt="z3ro-o" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=z3ro-o&" alt="z3ro-o" /></p>
-
-<p>
-    <img src="https://github-profile-trophy.vercel.app/?username=z3ro-o" alt="z3ro-o" />
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=Z3RO-O&icon=7&color=9)](https://visitcount.itsvg.in)
 
 [![@z3ro_o's Holopin board](https://holopin.me/z3ro_o)](https://holopin.io/@z3ro_o)
-
-[![](https://visitcount.itsvg.in/api?id=Z3RO-O&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/z3r00"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="180" alt="z3r00" /></a></p>
