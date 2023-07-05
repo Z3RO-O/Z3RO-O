@@ -1,8 +1,8 @@
 <p align="center" background="cover"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" alt="gradient"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/105493363/195400527-d3891775-d3d1-4029-8014-1a12e5a853e7.jpg" alt="header"></p>
-  <h1 align="center"><p><img src="https://camo.githubusercontent.com/5bbf8ca61ef5f92684489ace45ad6f45984fff87a621040c62b1fe31e3005ff9/687474703a2f2f692e696d6775722e636f6d2f436a34724d72532e676966" width="30">Welcome to Z3RO_O's profile!</p></h1>
+  <h1 align="center"><p>Welcome to Z3RO_O's profile!</p></h1>
 <br>
-<h3 align="center">A passionate individual about Competitive Programming, Web Development and Cyber Security</h3>
+<h3 align="center">A passionate individual about Competitive Programming, Web Development and Cybersecurity</h3>
 
 - 🌱 I’m currently learning **DSA in C++ & Web Dev.**
 
