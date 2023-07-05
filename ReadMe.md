@@ -1,5 +1,6 @@
 <p align="center" background="cover"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" alt="gradient"></p>
 <h1 align="center"><p><img src="https://camo.githubusercontent.com/5bbf8ca61ef5f92684489ace45ad6f45984fff87a621040c62b1fe31e3005ff9/687474703a2f2f692e696d6775722e636f6d2f436a34724d72532e676966" width="30">Welcome to Z3RO_O's profile!</p></h1>
+
 <br>
 <h3 align="center">A passionate individual for Programming, Development and Cybersecurity</h3>
 
@@ -25,6 +26,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> 
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -78,9 +80,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Z3RO-O&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Z3RO-O&icon=7&color=9)](https://visitcount.itsvg.in)
-
 [![@z3ro_o's Holopin board](https://holopin.me/z3ro_o)](https://holopin.io/@z3ro_o)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Z3RO-O&icon=7&color=9)](https://visitcount.itsvg.in)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/z3r00"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="180" alt="z3r00" /></a></p>
