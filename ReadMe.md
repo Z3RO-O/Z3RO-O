@@ -73,7 +73,7 @@
 
 # <p align="center">📊 GitHub Stats</p>
 
-<p><img align="left" height="195" width="375" src="https://github-readme-stats.vercel.app/api/top-langs?username=z3ro-o&show_icons=true&locale=en&layout=compact" alt="z3ro-o" /></p>
+<p><img align="left" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=z3ro-o&show_icons=true&locale=en&layout=compact" alt="z3ro-o" /></p>
 
 <p><img height="195" src="https://github-readme-stats.vercel.app/api?username=z3ro-o&show_icons=true&locale=en" alt="z3ro-o" /></p>
 
