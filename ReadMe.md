@@ -114,14 +114,11 @@
 
 ---
 [![@z3ro_o's Holopin board](https://holopin.me/z3ro_o)](https://holopin.io/@z3ro_o)
-
----
-
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
----
 
+---
 [![](https://visitcount.itsvg.in/api?id=Z3RO-O&icon=7&color=9)](https://visitcount.itsvg.in)
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/z3r00"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="180" alt="z3r00" /></a></p>
+<p><a href="https://www.buymeacoffee.com/z3r00"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="160" alt="z3r00" /></a></p>
 <a href="https://paypal.me/Vaibhav307"> <img align="left" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="35" width="120" alt="z3r00" /></a>
