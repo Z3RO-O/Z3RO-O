@@ -1,5 +1,8 @@
 <p align="center" background="cover"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" alt="gradient"></p>
-<h1 align="center"><p><img src="https://camo.githubusercontent.com/5bbf8ca61ef5f92684489ace45ad6f45984fff87a621040c62b1fe31e3005ff9/687474703a2f2f692e696d6775722e636f6d2f436a34724d72532e676966" width="30">Welcome to Z3RO_O's profile!</p></h1>
+<div align="center" style="border-radius:100">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
+<h2 align="center"><p>Welcome to Z3RO_O's profile!</p></h2>
 
 <br>
 <h3 align="center">A passionate individual for Programming, Development and Cybersecurity</h3>
@@ -13,7 +16,7 @@
 - ⚡ Fun fact **Insomnia sharpens your math skills because you spend all night calculating how much sleep you’ll get if you’re able to ‘fall asleep right now.’**
 
 
-### Connect with me:
+### Connect with me : <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/>
 
 <p align="center">
 <a href="mailto:vvaibhavsingh.0@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="gmail" height="40" width="40"/></a>
@@ -99,8 +102,9 @@
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="35" height="35"/> </a> 
  </p>
 
+ <br>
  
-# <p align="center">📊 GitHub Stats</p>
+## <p align="center">📊 GitHub Stats</p>
 
 <div align="center">
 
@@ -122,3 +126,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/z3r00"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="160" alt="z3r00" /></a></p>
 <a href="https://paypal.me/Vaibhav307"> <img align="left" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="35" width="120" alt="z3r00" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</p>
