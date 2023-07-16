@@ -7,9 +7,6 @@
 <h3 align="center">A passionate individual for Programming, Development and Cybersecurity</h3>
 <br>
 
-<div>
-<div>
-
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **DSA in C++ & MERN Stack**
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **PC Tricks, Movies/Web Series, or anything**. <br>
@@ -19,9 +16,9 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I’m looking to collaborate on projects related to **Web Dev and Cybersecurity**.
 
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /> &nbsp;&nbsp; Fun fact : **Insomnia sharpens your math skills because you spend all night calculating how much sleep you’ll get if you’re able to ‘fall asleep right now.’**
-</div>
+<div align="center">
 
-![Control is an Illusion](https://raw.githubusercontent.com/Z3RO-O/Z3RO-O/main/pxfuel.jpg)
+![Control is an Illusion](https://raw.githubusercontent.com/Z3RO-O/Z3RO-O/main/control%20is%20an%20illsuion%20git.jpg)
 
 </div>
 
@@ -122,7 +119,7 @@
 ![](https://raw.githubusercontent.com/Z3RO-O/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/Z3RO-O/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Z3RO-O/github-stats/master/generated/languages.svg#gh-light-mode-only)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Z3RO-O&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Z3RO-O&theme=transparent&card_width=500)](https://git.io/streak-stats)<br/>
 
 </div>
 
