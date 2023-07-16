@@ -1,11 +1,16 @@
+<link href="https://fonts.cdnfonts.com/css/terminal" rel="stylesheet">
+                
+<span style="font-family: 'Courier New', monospace;">
+
 <p align="center" background="cover"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" alt="gradient"></p>
 <div align="center" style="border-radius:100">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 <h2 align="center"><p>Welcome to Z3RO_O's profile!</p></h2>
 
-<br>
 <h3 align="center">A passionate individual for Programming, Development and Cybersecurity</h3>
+<br>
+
 
 - 🌱 I’m currently learning **DSA in C++ & MERN Stack**
 
@@ -126,6 +131,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/z3r00"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="160" alt="z3r00" /></a></p>
 <a href="https://paypal.me/Vaibhav307"> <img align="left" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="35" width="120" alt="z3r00" /></a>
+</span>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
