@@ -7,6 +7,8 @@
 <h3 align="center">A passionate individual for Programming, Development and Cybersecurity</h3>
 <br>
 
+<div>
+<div>
 
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **DSA in C++ & MERN Stack**
 
@@ -17,6 +19,11 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I’m looking to collaborate on projects related to **Web Dev and Cybersecurity**.
 
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /> &nbsp;&nbsp; Fun fact : **Insomnia sharpens your math skills because you spend all night calculating how much sleep you’ll get if you’re able to ‘fall asleep right now.’**
+</div>
+
+![Control is an Illusion](https://raw.githubusercontent.com/Z3RO-O/Z3RO-O/main/pxfuel.jpg)
+
+</div>
 
 
 ### Connect with me : <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/>
