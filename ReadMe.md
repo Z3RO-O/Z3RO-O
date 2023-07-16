@@ -1,7 +1,3 @@
-<link href="https://fonts.cdnfonts.com/css/terminal" rel="stylesheet">
-                
-<span style="font-family: 'Courier New', monospace;">
-
 <p align="center" background="cover"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" alt="gradient"></p>
 <div align="center" style="border-radius:100">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
@@ -12,13 +8,15 @@
 <br>
 
 
-- 🌱 I’m currently learning **DSA in C++ & MERN Stack**
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **DSA in C++ & MERN Stack**
 
-- 📫 How to reach me **vvaibhavsingh.0@gmail.com**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **PC Tricks, Movies/Web Series, or anything**. <br>
 
-- 👯 I’m looking to collaborate on projects related to **Web Dev and Cybersecurity**.
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me **vvaibhavsingh.0@gmail.com**
 
-- ⚡ Fun fact **Insomnia sharpens your math skills because you spend all night calculating how much sleep you’ll get if you’re able to ‘fall asleep right now.’**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I’m looking to collaborate on projects related to **Web Dev and Cybersecurity**.
+
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /> &nbsp;&nbsp; Fun fact : **Insomnia sharpens your math skills because you spend all night calculating how much sleep you’ll get if you’re able to ‘fall asleep right now.’**
 
 
 ### Connect with me : <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/>
@@ -131,7 +129,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/z3r00"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="160" alt="z3r00" /></a></p>
 <a href="https://paypal.me/Vaibhav307"> <img align="left" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="35" width="120" alt="z3r00" /></a>
-</span>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
