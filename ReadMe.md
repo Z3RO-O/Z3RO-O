@@ -119,7 +119,7 @@
 ![](https://raw.githubusercontent.com/Z3RO-O/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/Z3RO-O/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Z3RO-O/github-stats/master/generated/languages.svg#gh-light-mode-only)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Z3RO-O&theme=transparent&card_width=500)](https://git.io/streak-stats)<br/>
+![](https://streak-stats.demolab.com?user=Z3RO-O&theme=transparent&card_width=500)<br/>
 
 </div>
 
