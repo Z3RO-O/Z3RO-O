@@ -46,62 +46,61 @@
 
 <p align="center"> 
  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="35"/></code>
- &nbsp
- <code><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" height="35"/></code>
- &nbsp
+
+<code><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" height="35"/></code>
+
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="35"/>
- &nbsp
- <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="35"/></code> 
- &nbsp
- <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" height="35"></code>
- &nbsp
- <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" height="35"></code>
- &nbsp
+ 
+ <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="35"/></code>
+
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" height="35"></code>
+
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" height="35"></code>
+
  <code> 
- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="35"/></code> 
- &nbsp
+ <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="35"/></code>
+
 <code> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="35"/> </code> 
- &nbsp
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="35"/> </code>
+
  <code> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="35"/> </code> 
- &nbsp
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="35"/> </code>
+
  <code> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="35"/> </code> 
- &nbsp
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="35"/> </code>
+
  <code> 
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="35"/> </code> 
- &nbsp
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="35"/> </code>
+
 <code> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="35"/> </code> 
- &nbsp
  <code> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="35"/> </code> 
- &nbsp 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="35"/> </code>
+
  <code> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="35"/> </code> 
- &nbsp 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="35"/> </code>
+
 <code> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="35"/> </code> 
- &nbsp
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="35"/> </code>
+
 <code> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="35"/> </code> 
- &nbsp
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="35"/> </code>
+
  <code> 
- <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" height="35"/> </code> 
- &nbsp
+ <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" height="35"/> </code>
+
  <code> 
- <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" height="35"/> </code> 
- &nbsp
+ <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" height="35"/> </code>
+
  <code> 
- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="35"/> </code> 
- &nbsp
+ <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="35"/> </code>
+
  <code> 
- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="35"/> </code> 
- &nbsp
+ <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="35"/> </code>
+
  <code> 
- <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" height="35"/> </code> 
- &nbsp 
+ <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" height="35"/> </code>
+
  <code> 
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" height="35"/> </code> 
  </p>
