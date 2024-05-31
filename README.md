@@ -22,6 +22,7 @@
 
 </div>
 
+
 ### Connect with me : <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/>
 
 <p align="center">
@@ -45,64 +46,69 @@
 <h3> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px height = 22px> </h3>
 
 <p align="center"> 
- <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="35"/></code>
-
-<code><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" height="35"/></code>
-
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="35"/>
- 
- <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="35"/></code>
-
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" height="35"></code>
-
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" height="35"></code>
-
- <code> 
- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="35"/></code>
-
-<code> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="35"/> </code>
-
- <code> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="35"/> </code>
-
- <code> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="35"/> </code>
-
- <code> 
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="35"/> </code>
-
-<code> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="35"/> </code> 
- <code> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="35"/> </code>
-
- <code> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="35"/> </code>
-
-<code> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="35"/> </code>
-
-<code> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="35"/> </code>
-
- <code> 
- <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" height="35"/> </code>
-
- <code> 
- <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" height="35"/> </code>
-
- <code> 
- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="35"/> </code>
-
- <code> 
- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="35"/> </code>
-
- <code> 
- <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" height="35"/> </code>
-
- <code> 
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" height="35"/> </code> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/>
+ &nbsp
+ <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="35" height="35"/>
+ &nbsp
+ <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" height="35"></code>
+ &nbsp
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" height="35">
+ &nbsp
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="35" height="35"/>
+ &nbsp
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> </a> 
+ &nbsp
+ <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+ <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="35" height="35"/> </a> 
+ &nbsp
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a> 
+ &nbsp
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35" height="35"/> </a> 
+ &nbsp
+ <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/> </a> 
+ &nbsp
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/> </a> 
+ &nbsp
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a> 
+ &nbsp
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/> </a> 
+ &nbsp
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/> </a> 
+ &nbsp 
+ <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> </a> 
+ &nbsp 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35"/> </a> 
+ &nbsp
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/> </a> 
+ &nbsp
+ <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+ <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="35" height="35"/> </a> 
+ &nbsp
+ <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+ <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="35" height="35"/> </a> 
+ &nbsp
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+ <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/> </a> 
+ &nbsp
+ <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+ <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35"/> </a> 
+ &nbsp
+ <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
+ <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="35" height="35"/> </a> 
+ &nbsp 
+ <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="35" height="35"/> </a> 
  </p>
 
  <br>
@@ -120,12 +126,10 @@
 </div>
 
 ---
-
 [![@z3ro_o's Holopin board](https://holopin.me/z3ro_o)](https://holopin.io/@z3ro_o)
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 
 ---
-
 [![](https://visitcount.itsvg.in/api?id=Z3RO-O&icon=7&color=9)](https://visitcount.itsvg.in)
 
 <h3 align="left">Support:</h3>
