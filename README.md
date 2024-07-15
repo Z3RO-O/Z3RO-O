@@ -22,13 +22,13 @@
 
 </div>
 
-### Connect with me : <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/>
+### Connect with me :
 
 <p align="center">
-<a href="mailto:vvaibhavsingh.0@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="gmail" height="40" width="40"/></a>
-<a href="https://www.linkedin.com/in/vaibhav-singh-405153206/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="linkedin" height="40" width="40"/></a>
-<a href="https://twitter.com/vaibhavsngh0" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/twitter-squared.png" alt="twitter" height="40" width="40" /></a>
-<a href="https://instagram.com/vvaibhav_s/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="instagram" height="40" width="40" /></a>
+<a href="mailto:vvaibhavsingh.0@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="35"/></a>
+<a href="https://www.linkedin.com/in/vaibhav-singh-405153206/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="35"/></a>
+<a href="https://twitter.com/vaibhavsngh0" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="35" /></a>
+<a href="https://instagram.com/vvaibhav_s/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="35" /></a>
 <a href="https://stackoverflow.com/users/17462593" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17462593"  height="25" width="25" /></a>
 <a href="https://www.codechef.com/users/z3ro_o" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="z3ro_o" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/z3ro_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="z3ro_o"  height="30" width="30" /></a>
@@ -42,53 +42,13 @@
 <a href="https://auth.geeksforgeeks.org/user/z3ro_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="z3ro_o"  height="30" width="30" /></a>
 </p>
 
-<h3> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px height = 22px> </h3>
+<h3> My Daily Toolbox </h3>
 
-<p align="center"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/>
- &nbsp
- <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="35" height="35"/>
- &nbsp
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" height="35">
- &nbsp
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" height="35">
- &nbsp
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="35" height="35"/>
- &nbsp
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/>
- &nbsp
- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="35" height="35"/>
- &nbsp
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
- &nbsp
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35" height="35"/>
- &nbsp
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>
- &nbsp
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/>
- &nbsp
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> 
- &nbsp
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/>
- &nbsp
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/>
- &nbsp 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/>
- &nbsp 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35"/>
- &nbsp
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/>
- &nbsp
- <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="35" height="35"/>
- &nbsp
- <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="35" height="35"/>
- &nbsp
- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/> 
- &nbsp
- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35"/>
- &nbsp
- <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="35" height="35"/>
- </p>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,next,angular,ts,js,html,css,tailwind,bootstrap,mongodb,vscode,git,github,figma,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=java,python,mysql,django,flask,postman,flutter,firebase,gcp,docker,linux,ubuntu,kali,obsidian,markdown" /><br>
+</div>
+
 
  <br>
  
