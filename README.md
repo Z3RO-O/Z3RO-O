@@ -42,7 +42,7 @@
 <a href="https://auth.geeksforgeeks.org/user/z3ro_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="z3ro_o"  height="30" width="30" /></a>
 </p>
 
-<h3> My Daily Toolbox </h3>
+### My Daily Toolbox :
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,next,angular,ts,js,html,css,tailwind,bootstrap,mongodb,vscode,git,github,figma,cpp" /><br>
