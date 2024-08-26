@@ -7,7 +7,7 @@
 <h3 align="center">A passionate individual for Programming, Development and Cybersecurity</h3>
 <br>
 
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Angular, Redux and FastAPI**
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Angular, Redux and FastAPI**.
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **PC Tricks, Movies/Web Series, or anything**. <br>
 
