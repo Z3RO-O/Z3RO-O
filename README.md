@@ -80,7 +80,7 @@
 <p><a href="https://www.buymeacoffee.com/z3r00"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="160" alt="z3r00" /></a></p>
 <a href="https://paypal.me/Vaibhav307"> <img align="left" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="35" width="120" alt="z3r00" /></a>
 
-[![](https://visitcount.itsvg.in/api?id=Z3RO-O&icon=7&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Z3RO-O&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
