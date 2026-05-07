@@ -4,10 +4,10 @@
 </div>
 <h2 align="center"><p>Welcome to Z3RO_O's profile!</p></h2>
 
-<h3 align="center">A passionate individual for Programming, Development and Cybersecurity</h3>
+<h3 align="center">Passionate about Programming, Development and Cybersecurity</h3>
 <br>
 
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Angular and FastAPI**.
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **AI Vibe Coding**.
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **PC Tricks, Movies/Web Series/Anime or Anything**. <br>
 
@@ -23,24 +23,6 @@
 
 </div>
 
-### My Profiles :
-
-<div align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/Z3ROO.png" alt="Z3RO-THM" style='border:none;'/>
-<p align="center">    
-<a href="https://www.codechef.com/users/z3ro_o" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="z3ro_o" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/z3ro_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="z3ro_o"  height="30" width="30" /></a>
-&nbsp
-<a href="https://codeforces.com/profile/z3ro_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="z3ro_o" height="30" width="30"  /></a>
-&nbsp
-<a href="https://www.leetcode.com/z3ro_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="z3ro_o"  height="30" width="30" /></a>
-&nbsp
-<a href="https://www.hackerearth.com/@vaibhavsingh7839271574" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vaibhavsingh7839271574"  height="30" width="30"  /></a>
-&nbsp
-<a href="https://auth.geeksforgeeks.org/user/z3ro_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="z3ro_o"  height="30" width="30" /></a>
-</p>
-</div>
-
 ### I’ve Got My Hands On :
 
 <div align="center">
@@ -50,18 +32,6 @@
 
 
  <br>
- 
-## <p align="center">📊 GitHub Stats</p>
-
-<div align="center">
-
-![](https://raw.githubusercontent.com/Z3RO-O/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Z3RO-O/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/Z3RO-O/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Z3RO-O/github-stats/master/generated/languages.svg#gh-light-mode-only)
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Z3RO-O&theme=transparent&card_width=540)](https://git.io/streak-stats)
-
-</div>
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 
