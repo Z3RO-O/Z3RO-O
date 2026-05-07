@@ -4,7 +4,7 @@
 </div>
 <h2 align="center"><p>Welcome to Z3RO_O's profile!</p></h2>
 
-<h3 align="center">Passionate about Programming, Development and Cybersecurity</h3>
+<h3 align="center">Passionate about Programming, Dev and Cybersec</h3>
 <br>
 
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **AI Vibe Coding**.
